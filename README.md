@@ -1,4 +1,4 @@
-# Data-Wrangling-Project-from-WeRateDogs-Twitter-account-
+# Data-Wrangling-Project-from-WeRateDogs-Twitter-account
 Data Wrangling Project from WeRateDogs Twitter account, data have been collected from three different tables, the analysis shows 
 - Which dog breed have max rating_numerator? 
 - Which dog breed have max rating_denominator? 
